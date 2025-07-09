@@ -1,0 +1,28 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile arquivo_binario
+  --geno 0.05
+  --make-bed
+  --out arquivo_qc1
+
+Hostname: DESKTOP-UAKI6G4
+Working directory: /mnt/c/Users/Usuario/Downloads/Ancestralidade
+Start time: Wed Jul  9 11:47:59 2025
+
+Random number seed: 1752072479
+3794 MB RAM detected; reserving 1897 MB for main workspace.
+653947 variants loaded from .bim file.
+1 person (0 males, 0 females, 1 ambiguous) loaded from .fam.
+Ambiguous sex ID written to arquivo_qc1.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1 founder and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Total genotyping rate is 0.993506.
+8358 variants removed due to missing genotype data (--geno).
+645589 variants and 1 person pass filters and QC.
+Note: No phenotypes present.
+--make-bed to arquivo_qc1.bed + arquivo_qc1.bim + arquivo_qc1.fam ... done.
+
+End time: Wed Jul  9 11:48:15 2025

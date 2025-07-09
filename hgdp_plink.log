@@ -1,0 +1,15 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --make-bed
+  --out hgdp_plink
+  --vcf hgdp.vcf
+
+Hostname: DESKTOP-UAKI6G4
+Working directory: /mnt/c/Users/Usuario/Downloads/Ancestralidade
+Start time: Wed Jul  9 14:08:56 2025
+
+Random number seed: 1752080936
+3794 MB RAM detected; reserving 1897 MB for main workspace.
+Error: Failed to open hgdp.vcf.
+
+End time: Wed Jul  9 14:08:56 2025

@@ -1,0 +1,27 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile arquivo_qc2
+  --maf 0.01
+  --make-bed
+  --out arquivo_qc3
+
+Hostname: DESKTOP-UAKI6G4
+Working directory: /mnt/c/Users/Usuario/Downloads/Ancestralidade
+Start time: Wed Jul  9 11:50:43 2025
+
+Random number seed: 1752072643
+3794 MB RAM detected; reserving 1897 MB for main workspace.
+645589 variants loaded from .bim file.
+1 person (0 males, 0 females, 1 ambiguous) loaded from .fam.
+Ambiguous sex ID written to arquivo_qc3.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1 founder and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+541677 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+103912 variants and 1 person pass filters and QC.
+Note: No phenotypes present.
+--make-bed to arquivo_qc3.bed + arquivo_qc3.bim + arquivo_qc3.fam ... done.
+
+End time: Wed Jul  9 11:50:53 2025

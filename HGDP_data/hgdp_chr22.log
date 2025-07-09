@@ -1,0 +1,16 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --make-bed
+  --out HGDP_chr22
+  --vcf HGDP_chr22.vcf.gz
+
+Hostname: DESKTOP-UAKI6G4
+Working directory: /mnt/c/Users/Usuario/Downloads/Ancestralidade/HGDP_data
+Start time: Wed Jul  9 15:20:04 2025
+
+Random number seed: 1752085204
+3794 MB RAM detected; reserving 1897 MB for main workspace.
+Error: Failed to open HGDP_chr22.vcf.gz. (--vcf expects a complete filename;
+did you forget '.vcf' at the end?)
+
+End time: Wed Jul  9 15:20:04 2025
